@@ -1,128 +1,128 @@
-## 🏥 Hospital Management System – SQL Data Analytics Project
+# 🏥 Hospital Management System – SQL Data Analytics Project
 
-### 📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing a **Hospital Management System** using **SQL** to extract meaningful insights related to **patient care, doctor performance, appointment efficiency, and financial operations.**
 The goal is to demonstrate **end-to-end SQL data analytics skills** by working with a structured relational database and solving real-world healthcare business problems.
 
 ---
 
-### 🎯 Business Problem
+## 🎯 Business Problem
 
 Hospitals generate large volumes of operational and financial data.
 This project aims to answer key business questions such as:
 
--- How efficiently are appointments managed?
+- How efficiently are appointments managed?
 
--- Which doctors and treatments generate the most revenue?
+- Which doctors and treatments generate the most revenue?
 
--- Who are the repeat and high-value patients?
+- Who are the repeat and high-value patients?
 
--- Where do unpaid bills and revenue leakages exist?
+- Where do unpaid bills and revenue leakages exist?
 
 ---
 
- ### 🗂 Dataset Description
+ ## 🗂 Dataset Description
 
 The dataset consists of 5 interconnected tables:
 
-#### 1. Patients
+### 1. Patients
 
--- Patient demographics and insurance details
+- Patient demographics and insurance details
 
--- Used for patient behavior and repeat visit analysis
+- Used for patient behavior and repeat visit analysis
 
 #### 2. Doctors
 
--- Doctor profiles, specialization, experience, and hospital branch
+- Doctor profiles, specialization, experience, and hospital branch
 
--- Used for workload and performance analysis
+- Used for workload and performance analysis
 
 #### 3. Appointments
 
--- Scheduled visits between patients and doctors
+- Scheduled visits between patients and doctors
 
--- Captures appointment dates and status
+- Captures appointment dates and status
 
 #### 4. Treatments
 
--- Treatments provided during appointments
+- Treatments provided during appointments
 
--- Used to analyze service demand and treatment costs
+- Used to analyze service demand and treatment costs
 
 ##### 5. Billing
 
--- Financial records of treatments
+- Financial records of treatments
 
--- Used for revenue, payment status, and financial risk analysis
-
----
-
-### 🧩 Entity Relationship Diagram (ERD)
-
--- Clearly defined **primary and foreign key relationships**
-
--- Ensures data integrity across patients, doctors, appointments, treatments, and billing
+- Used for revenue, payment status, and financial risk analysis
 
 ---
 
-### 🛠 SQL Techniques Used
+## 🧩 Entity Relationship Diagram (ERD)
 
--- Basic SQL (`SELECT`, `WHERE`, `ORDER BY`)
+- Clearly defined **primary and foreign key relationships**
 
--- Aggregations (`GROUP BY`, `HAVING`)
-
--- Multi-table `JOINs'
-
--- Subqueries
-
--- Common Table Expressions (CTEs)
-
--- Window Functions (`RANK`, `DENSE_RANK`, `RUNNING TOTAL`)
-
--- Time-series analysis (monthly trends)
+- Ensures data integrity across patients, doctors, appointments, treatments, and billing
 
 ---
 
-### 📊 Key Analysis Areas
+## 🛠 SQL Techniques Used
 
--- **Patient Analytics:** demographics, repeat visits, uninsured patients
+- Basic SQL (`SELECT`, `WHERE`, `ORDER BY`)
 
--- **Doctor Performance:** workload, specialization demand, experience analysis
+- Aggregations (`GROUP BY`, `HAVING`)
 
--- **Appointment Analysis:** trends, cancellations, busiest doctors
+- Multi-table `JOINs'
 
--- **Treatment Insights:** cost analysis, frequency, unbilled treatments
+- Subqueries
 
--- **Billing & Revenue:** total revenue, unpaid bills, top patients, payment methods
+- Common Table Expressions (CTEs)
 
----
+- Window Functions (`RANK`, `DENSE_RANK`, `RUNNING TOTAL`)
 
-### 🔍 Key Insights
-
--- Certain **specializations and treatments contribute disproportionately to revenue**
-
--- **Repeat patients** form a significant portion of hospital visits
-
--- Identified **high-performing doctors** based on appointment volume and revenue
-
--- Highlighted **unpaid bills and financial risk areas**
-
--- Observed **monthly trends in appointments and revenue**
+- Time-series analysis (monthly trends)
 
 ---
 
-### 📈 Project Outcome
+## 📊 Key Analysis Areas
+
+- **Patient Analytics:** demographics, repeat visits, uninsured patients
+
+- **Doctor Performance:** workload, specialization demand, experience analysis
+
+- **Appointment Analysis:** trends, cancellations, busiest doctors
+
+- **Treatment Insights:** cost analysis, frequency, unbilled treatments
+
+- **Billing & Revenue:** total revenue, unpaid bills, top patients, payment methods
+
+---
+
+## 🔍 Key Insights
+
+- Certain **specializations and treatments contribute disproportionately to revenue**
+
+- **Repeat patients** form a significant portion of hospital visits
+
+- Identified **high-performing doctors** based on appointment volume and revenue
+
+- Highlighted **unpaid bills and financial risk areas**
+
+- Observed **monthly trends in appointments and revenue**
+
+---
+
+## 📈 Project Outcome
 
 This project demonstrates:
 
--- Strong **SQL proficiency**
+- Strong **SQL proficiency**
 
--- Ability to work with **relational databases**
+- Ability to work with **relational databases**
 
--- **Business-oriented analytical thinking**
+- **Business-oriented analytical thinking**
 
--- Practical experience in **healthcare data analytics**
+- Practical experience in **healthcare data analytics**
 
 ---
 
@@ -138,14 +138,15 @@ Add predictive insights using Python or SQL analytics functions
 
 ---
 
-### 👤 Author
+## 👤 Author
 
 **Saad Ahmed Shaikh**
+
 SQL Data Analytics Project
 
 ---
 
-### ⭐ Why This Project Matters
+## ⭐ Why This Project Matters
 
 This project reflects **real-world healthcare analytics scenarios** and demonstrates practical SQL-based analysis of hospital operations, patient behavior, and financial performance for data-driven decision-making roles.
 
