@@ -64,6 +64,10 @@ The dataset consists of 5 interconnected tables:
 
 - Ensures data integrity across patients, doctors, appointments, treatments, and billing
 
+Here's a visual representation of the database schema:
+
+<img width="958" height="632" alt="Screenshot (646)" src="https://github.com/user-attachments/assets/69de5860-c5f2-4f9b-b6ce-87a8dd9342b0" />
+
 ---
 
 ## 🛠 SQL Techniques Used
