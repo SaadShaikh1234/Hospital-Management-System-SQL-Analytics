@@ -128,13 +128,13 @@ This project demonstrates:
 
 ### 🚀 Future Enhancements
 
-Add **percentage-based KPIs** (cancellation rate, unpaid ratio)
+- Add **percentage-based KPIs** (cancellation rate, unpaid ratio)
 
-Create **Power BI / Tableau dashboards** using query outputs
+- Create **Power BI / Tableau dashboards** using query outputs
 
-Optimize queries for large-scale datasets
+- Optimize queries for large-scale datasets
 
-Add predictive insights using Python or SQL analytics functions
+- Add predictive insights using Python or SQL analytics functions
 
 ---
 
