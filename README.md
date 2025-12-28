@@ -1,7 +1,5 @@
 ## 🏥 Hospital Management System – SQL Data Analytics Project
 
----
-
 ### 📌 Project Overview
 
 This project focuses on analyzing a **Hospital Management System** using **SQL** to extract meaningful insights related to **patient care, doctor performance, appointment efficiency, and financial operations.**
