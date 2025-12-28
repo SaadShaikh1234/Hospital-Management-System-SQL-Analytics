@@ -72,7 +72,7 @@ The dataset consists of 5 interconnected tables:
 
 - Aggregations (`GROUP BY`, `HAVING`)
 
-- Multi-table `JOINs'
+- Multi-table `JOINs`
 
 - Subqueries
 
