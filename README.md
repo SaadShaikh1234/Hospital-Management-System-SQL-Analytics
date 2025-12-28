@@ -126,7 +126,7 @@ This project demonstrates:
 
 ---
 
-### 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Add **percentage-based KPIs** (cancellation rate, unpaid ratio)
 
