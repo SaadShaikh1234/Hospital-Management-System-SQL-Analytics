@@ -26,7 +26,7 @@ This project aims to answer key business questions such as:
 
 The dataset consists of 5 interconnected tables:
 
-### 1. Patients
+#### 1. Patients
 
 - Patient demographics and insurance details
 
