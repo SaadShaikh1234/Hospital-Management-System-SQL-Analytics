@@ -50,7 +50,7 @@ The dataset consists of 5 interconnected tables:
 
 - Used to analyze service demand and treatment costs
 
-##### 5. Billing
+#### 5. Billing
 
 - Financial records of treatments
 
